@@ -21,7 +21,7 @@
 <h2>🎓 &nbsp Formação Academica</h2>
 
 🧑‍🎓 --> Tecnólogo em Gestão de Tecnologia da Informação - Faculdade Cruzeiro do Sul - Polo Sudoeste/Brasília/DF<br>
-📖 -----> Curso de Administrador de Banco de Dados - Senai Taguatinga - Brasília/DF<br>
+🎲📊 --> Curso de Administrador de Banco de Dados - Senai Taguatinga - Brasília/DF<br>
 🧑‍🎓 --> Bacharelado em Turismo pelo Centro Universitário de Brasília - IESB - Brasília/DF <br>
 ###
 <h2 align="left">Certificados</h2>
