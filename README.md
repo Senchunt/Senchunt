@@ -82,9 +82,28 @@
 <h2 align="left">🚀Tecnologias</h2>
 
 <div>
-<img src = "excel.png" >&nbsp
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[ICON SLUG].svg" />
+  <a href="https://beacons.ai/Senchunt">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Senchunt&show_icons=true&theme=dark&include_all_commits-true&count_private-true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senchunt&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="MSX-BASIC" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/msdos/msdos-original.svg">  
+  <img align="center" alt="MSX-BASIC" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+ <img align="center" alt="MSX-BASIC" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+ <img align="center" alt="MSX-BASIC" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+ <img align="center" alt="MSX-BASIC" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+ <img align="center" alt="MSX-BASIC" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="MSX-BASIC" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+</div>
 
 
 </div>
