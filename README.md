@@ -87,7 +87,7 @@
 
 <h2 align="left">🚀Tecnologias</h2>
  <img align="right" alt="senchunt-profmsx" height="300" width="380" 
-    src="https://github.com/user-attachments/assets/a0fbe23f-61d3-4d08-883d-efec4db88e06">
+    src="https://github.com/user-attachments/assets/d2109846-744d-42f9-af09-5935b3edf6f5">
 <div>
   <a href="https://beacons.ai/Senchunt">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Senchunt&show_icons=true&theme=dark&include_all_commits-true&count_private-true"/>
