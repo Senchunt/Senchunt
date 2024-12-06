@@ -1,7 +1,7 @@
 
 # Olá! Vamos Codar!!! 💻<.../>
  <img align="right" alt="senchunt-theitcrowd" 
-    src="https://drive.google.com/file/d/1a-eqg9ce88VUxFlonwrrIYHaVwtD7sAT/view?usp=drive_link">
+    src="https://github.com/user-attachments/assets/20a45950-943e-4166-a426-9f9cfc913b99">
 ###
 <h2 align="left">Sobre mim</h2>
 
