@@ -1,6 +1,7 @@
 
 # Olá! Vamos Codar!!! 💻<.../>
-
+ <img align="right" alt="senchunt-theitcrowd" 
+    src="https://drive.google.com/file/d/1a-eqg9ce88VUxFlonwrrIYHaVwtD7sAT/view?usp=drive_link">
 ###
 <h2 align="left">Sobre mim</h2>
 
@@ -105,8 +106,6 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="senchunt-Javascript" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
- <img align="right" alt="senchunt-theitcrowd" 
-    src="https://drive.google.com/file/d/1a-eqg9ce88VUxFlonwrrIYHaVwtD7sAT/view?usp=drive_link>
    
 </div>
 
