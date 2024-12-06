@@ -1,10 +1,10 @@
 
 # Olá! Vamos Codar!!! 💻<.../>
- <img align="right" alt="senchunt-theitcrowd" 
-    src="https://github.com/user-attachments/assets/20a45950-943e-4166-a426-9f9cfc913b99">
+
 ###
 <h2 align="left">Sobre mim</h2>
-
+ <img align="right" alt="senchunt-theitcrowd" height="260" width="300" 
+    src="https://github.com/user-attachments/assets/20a45950-943e-4166-a426-9f9cfc913b99">
 ###
 
 <p align="left">✨ Estudante de programação Fullstack SENAI/DF <br>
@@ -83,7 +83,8 @@
 
 
 <h2 align="left">🚀Tecnologias</h2>
-
+ <img align="right" alt="senchunt-profmsx" height="300" width="380" 
+    src="https://github.com/user-attachments/assets/a0fbe23f-61d3-4d08-883d-efec4db88e06">
 <div>
   <a href="https://beacons.ai/Senchunt">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Senchunt&show_icons=true&theme=dark&include_all_commits-true&count_private-true"/>
