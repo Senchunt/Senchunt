@@ -25,7 +25,9 @@
 🧑‍🎓 --> Bacharelado em Turismo pelo Centro Universitário de Brasília - IESB - Brasília/DF <br>
 ###
 <h2 align="left">Certificados</h2>
-
+<img align="right" alt="senchunt-code" height="230" width="250" 
+    src="https://github.com/user-attachments/assets/8448368d-236a-4d55-ad42-00cd0a1d6fa1">
+    
 <div align="left">
   <a href="" target="_blank">
     📚Curso de Administrador de Banco de Dados - Senai Taguatinga Brasília/DF<br>
@@ -58,6 +60,7 @@
 
 
 <h2 align="left">Contatos</h2>
+
 <div>
   <a href="https://web.whatsapp.com/" target="-blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://login.live.com/" target="-blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
