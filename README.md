@@ -4,8 +4,7 @@
 ###
 <h2 align="left">Sobre mim</h2>
  <img align="right" alt="senchunt-theitcrowd" height="260" width="250" 
-    src="https://github.com/user-attachments/assets/1059588f-3f54-41e8-b963-481c485bdcc6">
-    
+    src="https://github.com/user-attachments/assets/88f94d78-7e42-4e0f-8d1a-b63bf488fde3">
 ###
 
 <p align="left">✨ Estudante de programação Fullstack SENAI/DF <br>
