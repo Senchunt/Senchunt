@@ -60,7 +60,8 @@
 
 
 <h2 align="left">Contatos</h2>
-
+ <img align="right" alt="senchunt-profmsx" height="170" width="240" 
+    src="https://github.com/user-attachments/assets/7782ae6f-6b95-467c-97c0-f91afb9b309e">
 <div>
   <a href="https://web.whatsapp.com/" target="-blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://login.live.com/" target="-blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
@@ -86,8 +87,7 @@
 
 
 <h2 align="left">🚀Tecnologias</h2>
- <img align="right" alt="senchunt-profmsx" height="230" width="300" 
-    src="https://github.com/user-attachments/assets/7782ae6f-6b95-467c-97c0-f91afb9b309e">
+
 <div>
   <a href="https://beacons.ai/Senchunt">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Senchunt&show_icons=true&theme=dark&include_all_commits-true&count_private-true"/>
