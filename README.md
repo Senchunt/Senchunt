@@ -86,7 +86,7 @@
 
 
 <h2 align="left">🚀Tecnologias</h2>
- <img align="right" alt="senchunt-profmsx" height="230" width="320" 
+ <img align="right" alt="senchunt-profmsx" height="230" width="300" 
     src="https://github.com/user-attachments/assets/7782ae6f-6b95-467c-97c0-f91afb9b309e">
 <div>
   <a href="https://beacons.ai/Senchunt">
@@ -110,7 +110,9 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="senchunt-Javascript" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-   
+ <img align="center" alt="senchunt-node" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
+          
 </div>
 
 
